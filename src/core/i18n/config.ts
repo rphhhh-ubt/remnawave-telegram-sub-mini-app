@@ -1,6 +1,6 @@
 export const defaultLocale = 'en';
 
-export const timeZone = 'Europe/Amsterdam';
+export const timeZone = 'Europe/Moscow';
 
 export const locales = [defaultLocale, 'ru'] as const;
 
